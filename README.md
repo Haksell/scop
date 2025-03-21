@@ -4,6 +4,7 @@
 
 - https://vulkan-tutorial.com/
 - remove `VulkanApp`, functions are fine
+- no more `utility` mod
 - refactorrrrrrrrrrrrr
 - update dependencies
 - parse `.obj` files myself
@@ -19,3 +20,13 @@
 - [ ] phong model
 - [ ] platonic solid objects
 - [ ] light objects
+
+## notes
+
+- rm `WINDOW_TITLE`
+
+```rust
+mod utility;
+
+use utility::constants::*;
+```
