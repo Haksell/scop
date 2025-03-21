@@ -2,7 +2,7 @@
 
 ## todo
 
-- https://vulkan-tutorial.com/
+- https://vulkan-tutorial.com/ in ash
 - remove `VulkanApp`, functions are fine
 - no more `utility` mod
 - refactorrrrrrrrrrrrr
@@ -11,6 +11,7 @@
 - remove non-ash/winit dependencies
 - finish scop
 - add bonuses (125)
+- validation layers only in debug mode
 
 ## bonus
 
@@ -20,6 +21,8 @@
 - [ ] phong model
 - [ ] platonic solid objects
 - [ ] light objects
+- [ ] wgpu alternative
+- [ ] cpu alternative
 
 ## notes
 
